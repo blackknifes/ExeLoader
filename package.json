@@ -1,0 +1,19 @@
+{
+  "author": "blackknifes <a1991815a@gmail.com>",
+  "bugs": "https://github.com/blackknifes/ExeLoader/issues",
+  "description": "exe-loader for webpack",
+  "homepage": "https://github.com/blackknifes/ExeLoader",
+  "keywords": [
+    "loader",
+    "webpack",
+    "exe"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "exe-loader",
+  "version": "1.0.0",
+  "dependencies": {
+    "fs-extra-promise": "^1.0.1",
+    "loader-utils": "^1.1.0"
+  }
+}
