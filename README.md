@@ -26,9 +26,9 @@ yarn add -D exe-loader
 
 ## Options
 ### path
-Type: string Default: undefined
+Type: string Default: undefined <br>
 Specifies copy directory of exe file.
 
 ### relative
-Type: string Default: undefined
+Type: string Default: undefined <br>
 Specifies replacement of exe file path.
